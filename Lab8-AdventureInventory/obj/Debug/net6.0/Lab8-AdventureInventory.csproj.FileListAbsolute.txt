@@ -1,0 +1,15 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\bin\Debug\net6.0\Lab8-AdventureInventory.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\bin\Debug\net6.0\Lab8-AdventureInventory.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\bin\Debug\net6.0\Lab8-AdventureInventory.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\bin\Debug\net6.0\Lab8-AdventureInventory.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\bin\Debug\net6.0\Lab8-AdventureInventory.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\refint\Lab8-AdventureInventory.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\Lab8-AdventureInventory.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab8\Lab8-AdventureInventory\obj\Debug\net6.0\ref\Lab8-AdventureInventory.dll
